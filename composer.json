@@ -1,0 +1,15 @@
+{
+    "name": "cwkj/kuaidi",
+    "description": "快递查询",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+		
+	},
+	"autoload":{
+		"psr-4":{
+			"cwkj\\kuaidi\\":"src/"
+		}
+	}
+}
